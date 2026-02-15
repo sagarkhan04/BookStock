@@ -2,6 +2,13 @@
 
 A modern web application for managing books, authors, and categories built with **Laravel 11** and **Tailwind CSS**.
 
+**GitHub Repository**: [https://github.com/sagarkhan04/BookStock](https://github.com/sagarkhan04/BookStock)
+
+
+### Name : Sagar
+
+### Email: sagar.cmt1920@gmail.com
+
 ## 📋 Project Overview
 
 BookStock is a comprehensive book inventory management system that allows users to:
